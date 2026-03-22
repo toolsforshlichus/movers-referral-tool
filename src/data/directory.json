@@ -14130,6 +14130,21 @@
     "url": "https://www.chabad.org/jewish-centers/Boca-Raton/Social-Services/Jewish-Recovery-Center"
   },
   {
+    "id": "572003",
+    "name": "Jewish Learning Society",
+    "shliach": "Rabbi Ari Goodman",
+    "phone": "773-633-5560",
+    "website": "www.chabadjls.org",
+    "address": "19 N Sangamon St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "lat": 41.882307,
+    "lng": -87.6504715,
+    "type": "Young Professionals",
+    "url": "https://www.chabad.org/jewish-centers/Chicago/Young-Professionals/Jewish-Learning-Society"
+  },
+  {
     "id": "576109",
     "name": "The Friendship Circle of Pittsburgh",
     "shliach": "Rabbi Mordy Rudolph",
@@ -28213,21 +28228,6 @@
     "lng": -81.6795612,
     "type": "Young Professionals",
     "url": "https://www.chabad.org/jewish-centers/Cleveland/Young-Professionals/CYP-Cleveland"
-  },
-  {
-    "id": "6893052",
-    "name": "Uptown CYP",
-    "shliach": "Rabbi Sruli Steiner",
-    "phone": "647-501-5618",
-    "website": "www.uptowncyp.com",
-    "address": "114 Anndale Dr",
-    "city": "North York",
-    "state": "ON",
-    "zip": "M2N 2X4",
-    "lat": 43.7625317,
-    "lng": -79.3993183,
-    "type": "Young Professionals",
-    "url": "https://www.chabad.org/jewish-centers/North-York/Young-Professionals/Uptown-CYP"
   },
   {
     "id": "6893339",
