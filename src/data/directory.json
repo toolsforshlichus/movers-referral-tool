@@ -26535,21 +26535,6 @@
     "url": "https://www.chabad.org/jewish-centers/Mount-Vernon/Synagogue/Chabad-of-Skagit-County"
   },
   {
-    "id": "5981604",
-    "name": "Chabad Jewish Center of Oxford",
-    "shliach": "Rabbi Shmaya Hecht",
-    "phone": "203-514-0622",
-    "website": "cjcoxford.org",
-    "address": "",
-    "city": "Oxford",
-    "state": "CT",
-    "zip": "06478",
-    "lat": 41.4274087,
-    "lng": -73.1467619,
-    "type": "Chabad House",
-    "url": "https://www.chabad.org/jewish-centers/Oxford/Synagogue/Chabad-Jewish-Center-of-Oxford"
-  },
-  {
     "id": "5985625",
     "name": "Chabad of Centennial Hills ",
     "shliach": "Rabbi Mendy Schanowitz",
@@ -28875,6 +28860,21 @@
     "url": "https://www.chabad.org/jewish-centers/Brooklyn/Chabad-of-SUNY-Downstate"
   },
   {
+    "id": "7167732",
+    "name": "Neiros Lehuir Inc",
+    "shliach": "Rabbi Levi Ginsberg",
+    "phone": "347-524-2278",
+    "website": "",
+    "address": "1863 59th Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11204",
+    "lat": 40.6218519,
+    "lng": -73.9849232,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Brooklyn/Neiros-Lehuir-Inc"
+  },
+  {
     "id": "7180351",
     "name": "The Family Chabad - Greater Poway",
     "shliach": "Rabbi Hershy Weinstein",
@@ -28950,6 +28950,21 @@
     "url": "https://www.chabad.org/jewish-centers/Oakland-Park/Synagogue/Oakland-Park-Chabad"
   },
   {
+    "id": "7239334",
+    "name": "Chabad Lubavitch of Wilton ",
+    "shliach": "Rabbi Yehudah Leib Kantor",
+    "phone": "203-226-8584",
+    "website": "www.jewishwilton.com",
+    "address": "15 River Rd",
+    "city": "Wilton",
+    "state": "CT",
+    "zip": "06897",
+    "lat": 41.1898072,
+    "lng": -73.4320172,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Wilton/Chabad-Lubavitch-of-Wilton"
+  },
+  {
     "id": "7244635",
     "name": "Camp Gan Israel",
     "shliach": "Rabbi Sholom Heber",
@@ -28963,5 +28978,35 @@
     "lng": -73.645491,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Sea-Cliff/Camp-Gan-Israel"
+  },
+  {
+    "id": "7251670",
+    "name": "Chabad of Lachine",
+    "shliach": "Rabbi Raphael Wilmowsky",
+    "phone": "438-459-6600",
+    "website": "chabadoflachine.ca",
+    "address": "6244 Avenue de Westbury",
+    "city": "Montréal",
+    "state": "QC",
+    "zip": "H3W 2X3",
+    "lat": 45.491522,
+    "lng": -73.6414842,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Montreal/Chabad-of-Lachine"
+  },
+  {
+    "id": "7285365",
+    "name": "Chabad Lubavitch of Kirkwood, Inc.",
+    "shliach": "",
+    "phone": "248-224-4158",
+    "website": "",
+    "address": "8124 Delmar Blvd",
+    "city": "S Louis",
+    "state": "MO",
+    "zip": "63130",
+    "lat": 38.6600403,
+    "lng": -90.3478329,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/S-Louis/Chabad-Lubavitch-of-Kirkwood-Inc"
   }
 ]
