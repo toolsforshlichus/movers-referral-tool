@@ -26520,6 +26520,21 @@
     "url": "https://www.chabad.org/jewish-centers/Denver/Synagogue/Chabad-Lubavitch-of-Colorado"
   },
   {
+    "id": "5965187",
+    "name": "770 Visitors Center",
+    "shliach": "Rabbi Chaim Boruch Halberstam",
+    "phone": "718-773-7777",
+    "website": "www.WLCC.org",
+    "address": "770 Eastern Parkway",
+    "city": "Brooklyn ",
+    "state": "NY",
+    "zip": "11213",
+    "lat": 40.6690734,
+    "lng": -73.9428021,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Brooklyn/770-Visitors-Center"
+  },
+  {
     "id": "5977289",
     "name": "Chabad of Skagit County",
     "shliach": "Rabbi Shmuel Silver",
@@ -28935,6 +28950,21 @@
     "url": "https://www.chabad.org/jewish-centers/Springfield/Jewish-Learning-Center-of-Springfield"
   },
   {
+    "id": "7222988",
+    "name": "Chabad of Providence",
+    "shliach": "Rabbi Berel Laufer",
+    "phone": "401-543-5825",
+    "website": "",
+    "address": "362 Hope St",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02906",
+    "lat": 41.8361253,
+    "lng": -71.4016664,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Providence/Chabad-of-Providence"
+  },
+  {
     "id": "7229313",
     "name": "Oakland Park Chabad ",
     "shliach": "Rabbi Sruli Mochkin",
@@ -29008,5 +29038,20 @@
     "lng": -90.3478329,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/S-Louis/Chabad-Lubavitch-of-Kirkwood-Inc"
+  },
+  {
+    "id": "7295252",
+    "name": "IYYUN / CHABAD ",
+    "shliach": "Rabbi DovBer Pinson",
+    "phone": "917-921-3273",
+    "website": "www.IYYUN.com",
+    "address": "650 Sackett St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11217",
+    "lat": 40.684341,
+    "lng": -73.9848386,
+    "type": "Chabad House",
+    "url": "https://www.chabad.org/jewish-centers/Brooklyn/Synagogue/IYYUN-CHABAD"
   }
 ]
