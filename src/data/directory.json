@@ -28845,6 +28845,21 @@
     "url": "https://www.chabad.org/jewish-centers/Baltimore/Chabad-of-Cabin-Glen-Brook"
   },
   {
+    "id": "7117900",
+    "name": "Chabad Lubavitch of Great Falls",
+    "shliach": "Rabbi Mendel Spiero",
+    "phone": "406-970-4049",
+    "website": "www.jewishmontana.com",
+    "address": "2900 Fox Farm Road",
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59404",
+    "lat": 47.4776522,
+    "lng": -111.3280309,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Great-Falls/Chabad-Lubavitch-of-Great-Falls"
+  },
+  {
     "id": "7144239",
     "name": "Oceanview Chabad House",
     "shliach": "Rabbi David Okunov",
@@ -29025,6 +29040,21 @@
     "url": "https://www.chabad.org/jewish-centers/Montreal/Chabad-of-Lachine"
   },
   {
+    "id": "7269663",
+    "name": "Chabad of Kent Island",
+    "shliach": "Rabbi Menachem M Stern",
+    "phone": "347-933-2614",
+    "website": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "lat": 39.0457549,
+    "lng": -76.6412712,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Chabad-of-Kent-Island"
+  },
+  {
     "id": "7285365",
     "name": "Chabad Lubavitch of Kirkwood, Inc.",
     "shliach": "",
@@ -29053,5 +29083,50 @@
     "lng": -73.9848386,
     "type": "Chabad House",
     "url": "https://www.chabad.org/jewish-centers/Brooklyn/Synagogue/IYYUN-CHABAD"
+  },
+  {
+    "id": "7309271",
+    "name": "Chabad of Eldorado",
+    "shliach": "Rabbi Levi Shemtov",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "Eldorado",
+    "state": "NM",
+    "zip": "",
+    "lat": 35.5417017,
+    "lng": -105.9172422,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Eldorado/Chabad-of-Eldorado"
+  },
+  {
+    "id": "7328051",
+    "name": "Chabad of Maplewood/South Orange (SOMA)",
+    "shliach": "Rabbi Sholom Bogomilsky",
+    "phone": "973-762-5722",
+    "website": "www.maplewoodjewishcenter.org",
+    "address": "113 Parker Avenue",
+    "city": "Maplewood",
+    "state": "NJ",
+    "zip": "07040",
+    "lat": 40.7327479,
+    "lng": -74.257321,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Maplewood/Chabad-of-MaplewoodSouth-Orange-SOMA"
+  },
+  {
+    "id": "7343104",
+    "name": "Chabad Of Maricopa City",
+    "shliach": "Rabbi Dov Ber Fridman",
+    "phone": "917-742-9803",
+    "website": "",
+    "address": "3414 E Glenhaven Drive",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85048",
+    "lat": 33.2951181,
+    "lng": -112.0102558,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Phoenix/Chabad-Of-Maricopa-City"
   }
 ]
