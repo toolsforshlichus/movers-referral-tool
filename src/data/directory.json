@@ -18165,21 +18165,6 @@
     "url": "https://www.chabad.org/jewish-centers/Washington/Campus-Chabad-House/Chabad-Lubavitch-of-the-AU-Community"
   },
   {
-    "id": "1956662",
-    "name": "Chabad of Germantown",
-    "shliach": "Rabbi Yehuda Glick",
-    "phone": "240-245-0777",
-    "website": "",
-    "address": "22101 Ridge Road",
-    "city": "Germantown",
-    "state": "MD",
-    "zip": "20876",
-    "lat": 39.2187093,
-    "lng": -77.2381659,
-    "type": "Chabad House",
-    "url": "https://www.chabad.org/jewish-centers/Germantown/Synagogue/Chabad-of-Germantown"
-  },
-  {
     "id": "1962343",
     "name": "Chabad Lubavitch of Park City",
     "shliach": "Rabbi Yehudi Steiger",
@@ -29098,6 +29083,21 @@
     "lng": -105.9172422,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Eldorado/Chabad-of-Eldorado"
+  },
+  {
+    "id": "7323962",
+    "name": "Chabad of Mission Valley",
+    "shliach": "Rabbi Zelig Baumgarten",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "S. Diego",
+    "state": "CA",
+    "zip": "",
+    "lat": 32.715738,
+    "lng": -117.1610838,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/S-Diego/Chabad-of-Mission-Valley"
   },
   {
     "id": "7328051",
