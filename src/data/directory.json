@@ -28440,21 +28440,6 @@
     "url": "https://www.chabad.org/jewish-centers/Monticello/Chabad-Jewish-Monticello"
   },
   {
-    "id": "6989536",
-    "name": "Chabad of Upcounty",
-    "shliach": "Rabbi Yossi Kagan",
-    "phone": "301-679-3039",
-    "website": "www.Chabadupcounty.com",
-    "address": "11605 Gainsborough Rd",
-    "city": "Potomac",
-    "state": "MD",
-    "zip": "20854",
-    "lat": 39.0470899,
-    "lng": -77.1632712,
-    "type": "",
-    "url": "https://www.chabad.org/jewish-centers/Potomac/Chabad-of-Upcounty"
-  },
-  {
     "id": "6990607",
     "name": "JRCC S Richmond Hill & Maple",
     "shliach": "Rabbi Avrohom Zaltzman",
@@ -28995,6 +28980,21 @@
     "url": "https://www.chabad.org/jewish-centers/Wilton/Chabad-Lubavitch-of-Wilton"
   },
   {
+    "id": "7244555",
+    "name": "Chabad of Lincolnshire ",
+    "shliach": "Rabbi Mendel Katz",
+    "phone": "847-323-4138",
+    "website": "",
+    "address": "550 LaSalle Ct",
+    "city": "Buffalo Grove",
+    "state": "IL",
+    "zip": "60089",
+    "lat": 42.1805717,
+    "lng": -87.9695644,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Buffalo-Grove/Chabad-of-Lincolnshire"
+  },
+  {
     "id": "7244635",
     "name": "Camp Gan Israel",
     "shliach": "Rabbi Sholom Heber",
@@ -29128,5 +29128,50 @@
     "lng": -112.0102558,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Phoenix/Chabad-Of-Maricopa-City"
+  },
+  {
+    "id": "7361269",
+    "name": "Chabad at University of Tampa",
+    "shliach": "Rabbi Levi Rivkin",
+    "phone": "813-504-4432",
+    "website": "www.chabadut.org",
+    "address": "1317 W North B Street",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606",
+    "lat": 27.9469762,
+    "lng": -82.473576,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Tampa/Chabad-at-University-of-Tampa"
+  },
+  {
+    "id": "7368606",
+    "name": "Chabad Oakland Park East",
+    "shliach": "Rabbi Yitzchok Naparstek",
+    "phone": "",
+    "website": "chabadoaklandpark.com",
+    "address": "",
+    "city": "Oakland Park",
+    "state": "FL",
+    "zip": "",
+    "lat": 26.1723065,
+    "lng": -80.1319893,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Oakland-Park/Chabad-Oakland-Park-East"
+  },
+  {
+    "id": "7369479",
+    "name": "Chabad of Carefree",
+    "shliach": "Rabbi Mendel Heller",
+    "phone": "",
+    "website": "www.chabadcarefree.com",
+    "address": "",
+    "city": "Carefree",
+    "state": "AZ",
+    "zip": "",
+    "lat": 33.8222611,
+    "lng": -111.918203,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Carefree/Chabad-of-Carefree"
   }
 ]
