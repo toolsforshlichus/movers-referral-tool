@@ -11340,21 +11340,6 @@
     "url": "https://www.chabad.org/jewish-centers/Old-Westbury/Synagogue/Chabad-of-Old-Westbury"
   },
   {
-    "id": "295918",
-    "name": "Chabad Jewish Learning Center",
-    "shliach": "Rabbi Yaakov Reiter",
-    "phone": "516-484-3500",
-    "website": "www.FB.com/chabadhebrewschoolroslyn",
-    "address": "73 Powerhouse Road",
-    "city": "Roslyn Heights",
-    "state": "NY",
-    "zip": "11577",
-    "lat": 40.7854179,
-    "lng": -73.6450726,
-    "type": "Chabad House",
-    "url": "https://www.chabad.org/jewish-centers/Roslyn-Heights/Synagogue/Chabad-Jewish-Learning-Center"
-  },
-  {
     "id": "297715",
     "name": "Chabad of North East Broward",
     "shliach": "Rabbi Shuey Biston",
@@ -29028,16 +29013,16 @@
     "id": "7269663",
     "name": "Chabad of Kent Island",
     "shliach": "Rabbi Menachem M Stern",
-    "phone": "347-933-2614",
+    "phone": "443-333-9742",
     "website": "",
     "address": "",
-    "city": "",
-    "state": "",
+    "city": "Chester",
+    "state": "MD",
     "zip": "",
-    "lat": 39.0457549,
-    "lng": -76.6412712,
-    "type": "",
-    "url": "https://www.chabad.org/jewish-centers/Chabad-of-Kent-Island"
+    "lat": 38.953194,
+    "lng": -76.2730916,
+    "type": "Chabad House",
+    "url": "https://www.chabad.org/jewish-centers/Chester/Synagogue/Chabad-of-Kent-Island"
   },
   {
     "id": "7285365",
@@ -29173,5 +29158,20 @@
     "lng": -111.918203,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Carefree/Chabad-of-Carefree"
+  },
+  {
+    "id": "7381940",
+    "name": "Chabad Lake Placid",
+    "shliach": "Rabbi Chaim Langsam",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "Lake Placid",
+    "state": "NY",
+    "zip": "",
+    "lat": 44.2794911,
+    "lng": -73.9798713,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Lake-Placid/Chabad-Lake-Placid"
   }
 ]
