@@ -29160,6 +29160,21 @@
     "url": "https://www.chabad.org/jewish-centers/Carefree/Chabad-of-Carefree"
   },
   {
+    "id": "7375651",
+    "name": "Chabad of Rural Western Pennsylvania",
+    "shliach": "Rabbi Yisroel Gordon",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "lat": 41.2033216,
+    "lng": -77.1945247,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Chabad-of-Rural-Western-Pennsylvania"
+  },
+  {
     "id": "7381940",
     "name": "Chabad Lake Placid",
     "shliach": "Rabbi Chaim Langsam",
@@ -29233,5 +29248,65 @@
     "lng": -76.7327301,
     "type": "Chabad House",
     "url": "https://www.chabad.org/jewish-centers/Baltimore/Synagogue/CTeen-of-Baltimore"
+  },
+  {
+    "id": "7403210",
+    "name": "CTeen Of Fair Lawn",
+    "shliach": "Rabbi Levi Neubort",
+    "phone": "201-794-3770",
+    "website": "www.flchabad.com",
+    "address": "10-10 Plaza Road",
+    "city": "Fair Lawn",
+    "state": "NJ",
+    "zip": "07410",
+    "lat": 40.9339193,
+    "lng": -74.1170623,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Fair-Lawn/CTeen-Of-Fair-Lawn"
+  },
+  {
+    "id": "7417922",
+    "name": "Chabad of Eden Prairie",
+    "shliach": "Rabbi Schneur Matusof",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "zip": "",
+    "lat": 44.8546856,
+    "lng": -93.470786,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Eden-Prairie/Chabad-of-Eden-Prairie"
+  },
+  {
+    "id": "7419873",
+    "name": "Chabad of Golden and Colorado School of Mines",
+    "shliach": "Rabbi Yosef Stevenson",
+    "phone": "805-708-7036",
+    "website": "www.jewishgolden.com",
+    "address": "1844 Mt Zion Dr",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80401",
+    "lat": 39.7465382,
+    "lng": -105.2269754,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Golden/Chabad-of-Golden-and-Colorado-School-of-Mines"
+  },
+  {
+    "id": "7425308",
+    "name": "Chabad at Drew University",
+    "shliach": "Rabbi Shalom Lubin",
+    "phone": "917-860-0146",
+    "website": "",
+    "address": "36 Madison Ave",
+    "city": "Madison",
+    "state": "NJ",
+    "zip": "07940",
+    "lat": 40.7602397,
+    "lng": -74.4266389,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Madison/Chabad-at-Drew-University"
   }
 ]
