@@ -8370,6 +8370,36 @@
     "url": "https://www.chabad.org/jewish-centers/Staten-Island/Day-School/Gan-Israel-School"
   },
   {
+    "id": "118923",
+    "name": "Cong. Beth Shalom",
+    "shliach": "Rabbi Yitzchak Goldshmid",
+    "phone": "516-825-5566",
+    "website": "",
+    "address": "550 Rockaway Avenue",
+    "city": "Valley Stream",
+    "state": "NY",
+    "zip": "11581",
+    "lat": 40.6566122,
+    "lng": -73.7009325,
+    "type": "Synagogue",
+    "url": "https://www.chabad.org/jewish-centers/Valley-Stream/Synagogue/Cong-Beth-Shalom"
+  },
+  {
+    "id": "118924",
+    "name": "Hebrew School",
+    "shliach": "Mrs. Itty Goldshmid",
+    "phone": "516-359-2453",
+    "website": "",
+    "address": "550 Rockaway Avenue",
+    "city": "Valley Stream",
+    "state": "NY",
+    "zip": "11581",
+    "lat": 40.6566122,
+    "lng": -73.7009325,
+    "type": "Hebrew School",
+    "url": "https://www.chabad.org/jewish-centers/Valley-Stream/Hebrew-School/Hebrew-School"
+  },
+  {
     "id": "118938",
     "name": "JRCC Preschool & Daycare",
     "shliach": "Mrs. Chiena Zaltzman",
@@ -29293,5 +29323,20 @@
     "lng": -74.4266389,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Madison/Chabad-at-Drew-University"
+  },
+  {
+    "id": "7438183",
+    "name": "Gan Chabad Preschool",
+    "shliach": "Mrs. Cheli Marasow",
+    "phone": "516-825-5566",
+    "website": "www.chabadofvalleystream.com",
+    "address": "550 Rockaway Ave",
+    "city": "Valley Stream",
+    "state": "NY",
+    "zip": "11581",
+    "lat": 40.6566122,
+    "lng": -73.7009325,
+    "type": "Preschool",
+    "url": "https://www.chabad.org/jewish-centers/Valley-Stream/Preschool/Gan-Chabad-Preschool"
   }
 ]
