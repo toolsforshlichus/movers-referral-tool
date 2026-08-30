@@ -29070,6 +29070,21 @@
     "url": "https://www.chabad.org/jewish-centers/Brooklyn/Synagogue/IYYUN-CHABAD"
   },
   {
+    "id": "7307637",
+    "name": "Chabad of North Port",
+    "shliach": "Rabbi Srolik Sputz",
+    "phone": "929-692-0034",
+    "website": "",
+    "address": "",
+    "city": "North Port",
+    "state": "FL",
+    "zip": "",
+    "lat": 27.074968,
+    "lng": -82.2066015,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/North-Port/Chabad-of-North-Port"
+  },
+  {
     "id": "7309271",
     "name": "Chabad of Eldorado",
     "shliach": "Rabbi Levi Shemtov",
@@ -29113,6 +29128,21 @@
     "lng": -74.257321,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Maplewood/Chabad-of-MaplewoodSouth-Orange-SOMA"
+  },
+  {
+    "id": "7338776",
+    "name": "Jabad Monterrey",
+    "shliach": "Rabbi Shneor Zalmen Srugo",
+    "phone": "52-33-1584-7749",
+    "website": "",
+    "address": "Nicaragua 109",
+    "city": "Monterrey",
+    "state": "",
+    "zip": "64620",
+    "lat": 25.6927658,
+    "lng": -100.3522264,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Monterrey/Jabad-Monterrey"
   },
   {
     "id": "7343104",
@@ -29325,6 +29355,21 @@
     "url": "https://www.chabad.org/jewish-centers/Madison/Chabad-at-Drew-University"
   },
   {
+    "id": "7434852",
+    "name": "Chabad of Sausalito",
+    "shliach": "Rabbi Sholem Lebovics",
+    "phone": "754-248-5530",
+    "website": "",
+    "address": "",
+    "city": "Sausalito",
+    "state": "CA",
+    "zip": "94965",
+    "lat": 37.8590937,
+    "lng": -122.4852507,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Sausalito/Chabad-of-Sausalito"
+  },
+  {
     "id": "7438183",
     "name": "Gan Chabad Preschool",
     "shliach": "Mrs. Cheli Marasow",
@@ -29338,5 +29383,20 @@
     "lng": -73.7009325,
     "type": "Preschool",
     "url": "https://www.chabad.org/jewish-centers/Valley-Stream/Preschool/Gan-Chabad-Preschool"
+  },
+  {
+    "id": "7475377",
+    "name": "Irving Aaron Kitchen of Kindness",
+    "shliach": "Mrs. Bassy Mendelsohn",
+    "phone": "613-618-6843",
+    "website": "www.ourkindnesskitchen.com",
+    "address": "1712 Carling Ave",
+    "city": "Ottawa",
+    "state": "ON",
+    "zip": "K2A1C7",
+    "lat": 45.3782695,
+    "lng": -75.7513802,
+    "type": "Social Services",
+    "url": "https://www.chabad.org/jewish-centers/Ottawa/Social-Services/Irving-Aaron-Kitchen-of-Kindness"
   }
 ]
