@@ -4890,21 +4890,6 @@
     "url": "https://www.chabad.org/jewish-centers/New-York/Synagogue/Chabad-of-Wall-Street"
   },
   {
-    "id": "118236",
-    "name": "Chabad Center For Jewish Discovery",
-    "shliach": "",
-    "phone": "212-924-3200",
-    "website": "",
-    "address": "121 West 19th Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10011",
-    "lat": 40.7411971,
-    "lng": -73.9961223,
-    "type": "Chabad House",
-    "url": "https://www.chabad.org/jewish-centers/New-York/Synagogue/Chabad-Center-For-Jewish-Discovery"
-  },
-  {
     "id": "118237",
     "name": "Chabad-Lubavitch of Berks County",
     "shliach": "Rabbi Yosef Lipsker",
@@ -15990,21 +15975,6 @@
     "url": "https://www.chabad.org/jewish-centers/Fountain-Hills/Synagogue/Chabad-Lubavitch-of-Fountain-Hills"
   },
   {
-    "id": "988327",
-    "name": "Chabad of Gramercy Park",
-    "shliach": "Rabbi Levy Djian",
-    "phone": "212-924-3200",
-    "website": "www.chabad20.org",
-    "address": "342 East 20th Street",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10003",
-    "lat": 40.7351865,
-    "lng": -73.9806925,
-    "type": "Synagogue",
-    "url": "https://www.chabad.org/jewish-centers/New-York/Synagogue/Chabad-of-Gramercy-Park"
-  },
-  {
     "id": "992582",
     "name": "Chabad of Downtown",
     "shliach": "Rabbi Dovber Dechter",
@@ -16588,21 +16558,6 @@
     "lng": -73.8088103,
     "type": "Chabad House",
     "url": "https://www.chabad.org/jewish-centers/Yorktown-Heights/Synagogue/Chabad-of-Yorktown"
-  },
-  {
-    "id": "1294571",
-    "name": "Preschool @ Cooper Sq.",
-    "shliach": "",
-    "phone": "212-924-3200",
-    "website": "www.nycpreschool.org",
-    "address": "41 Cooper Square",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10003",
-    "lat": 40.7285196,
-    "lng": -73.9902112,
-    "type": "Preschool",
-    "url": "https://www.chabad.org/jewish-centers/New-York/Preschool/Preschool-Cooper-Sq"
   },
   {
     "id": "1296807",
@@ -19963,21 +19918,6 @@
     "lng": -77.3082949,
     "type": "Campus Chabad House",
     "url": "https://www.chabad.org/jewish-centers/Fairfax/Campus-Chabad-House/Chabad-at-George-Mason-University"
-  },
-  {
-    "id": "2965705",
-    "name": "Chabad of Inwood",
-    "shliach": "Rabbi Herschel Hartz",
-    "phone": "646-883-5397",
-    "website": "www.chabadofinwood.org",
-    "address": "56 Bennett Avenue",
-    "city": "New York",
-    "state": "NY",
-    "zip": "10033",
-    "lat": 40.8522805,
-    "lng": -73.9362117,
-    "type": "Chabad House",
-    "url": "https://www.chabad.org/jewish-centers/New-York/Synagogue/Chabad-of-Inwood"
   },
   {
     "id": "2991533",
@@ -28245,6 +28185,21 @@
     "url": "https://www.chabad.org/jewish-centers/Reno/Chabad-Cares-Northern-Nevada"
   },
   {
+    "id": "6902804",
+    "name": "CYP SF",
+    "shliach": "Rabbi Shmulik Friedman",
+    "phone": "415-668-6178",
+    "website": "www.chabadsf.org",
+    "address": "873 Sutter St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "lat": 37.7882075,
+    "lng": -122.414672,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/San-Francisco/CYP-SF"
+  },
+  {
     "id": "6923468",
     "name": "Chabad of Truckee",
     "shliach": "Rabbi Chaim Kudan",
@@ -29265,6 +29220,21 @@
     "url": "https://www.chabad.org/jewish-centers/Lomita/Chabad-of-Torrance"
   },
   {
+    "id": "7401983",
+    "name": "Cteen Raleigh",
+    "shliach": "Rabbi Mendy Wilschanski",
+    "phone": "919-847-8986",
+    "website": "www.Jewishraleigh.org/cteen",
+    "address": "7400 Falls of Neuse Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615",
+    "lat": 35.8855986,
+    "lng": -78.6264712,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Raleigh/Cteen-Raleigh"
+  },
+  {
     "id": "7402508",
     "name": "CTeen of Baltimore",
     "shliach": "",
@@ -29340,6 +29310,21 @@
     "url": "https://www.chabad.org/jewish-centers/Madison/Chabad-at-Drew-University"
   },
   {
+    "id": "7429629",
+    "name": "Chabad Lubavitch Bay View",
+    "shliach": "Rabbi Yisroel Bresinger",
+    "phone": "347-481-7198",
+    "website": "",
+    "address": "6789 N. Green Bay Ave",
+    "city": "Glendale",
+    "state": "WI",
+    "zip": "53209",
+    "lat": 43.14035,
+    "lng": -87.9340612,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Glendale/Chabad-Lubavitch-Bay-View"
+  },
+  {
     "id": "7434852",
     "name": "Chabad of Sausalito",
     "shliach": "Rabbi Sholem Lebovics",
@@ -29370,6 +29355,66 @@
     "url": "https://www.chabad.org/jewish-centers/Valley-Stream/Preschool/Gan-Chabad-Preschool"
   },
   {
+    "id": "7440338",
+    "name": "Circle Houston Inc",
+    "shliach": "Rabbi Dovid Goldstein",
+    "phone": "832-857-0770",
+    "website": "www.circlehouston.org",
+    "address": "10101 Fondren Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77096",
+    "lat": 29.6710549,
+    "lng": -95.5075762,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Houston/Circle-Houston-Inc"
+  },
+  {
+    "id": "7446707",
+    "name": "Chabad of West Philadelphia",
+    "shliach": "Rabbi Menachem Dubrowski",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "",
+    "lat": 39.9525839,
+    "lng": -75.1652215,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Philadelphia/Chabad-of-West-Philadelphia"
+  },
+  {
+    "id": "7465212",
+    "name": "YJP Des Moines",
+    "shliach": "Rabbi Moshe Zalman Vorovitch",
+    "phone": "770-307-8269",
+    "website": "www.yjpdesmoines.com",
+    "address": "1150 Polk Blvd",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312",
+    "lat": 41.5998747,
+    "lng": -93.6819765,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Des-Moines/YJP-Des-Moines"
+  },
+  {
+    "id": "7465215",
+    "name": "Cteen Iowa",
+    "shliach": "Rabbi Moshe Zalman Vorovitch",
+    "phone": "770-307-8269",
+    "website": "www.cteeniowa.com",
+    "address": "1150 Polk Blvd",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312",
+    "lat": 41.5998747,
+    "lng": -93.6819765,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Des-Moines/Cteen-Iowa"
+  },
+  {
     "id": "7475377",
     "name": "Irving Aaron Kitchen of Kindness",
     "shliach": "Mrs. Bassy Mendelsohn",
@@ -29383,5 +29428,20 @@
     "lng": -75.7513802,
     "type": "Social Services",
     "url": "https://www.chabad.org/jewish-centers/Ottawa/Social-Services/Irving-Aaron-Kitchen-of-Kindness"
+  },
+  {
+    "id": "7492620",
+    "name": "Chabad of Fishers-Noblesville ",
+    "shliach": "Rabbi Uri Libersohn",
+    "phone": "681-495-8143",
+    "website": "",
+    "address": "",
+    "city": "Fishers",
+    "state": "IN",
+    "zip": "46038",
+    "lat": 39.9645049,
+    "lng": -86.0223611,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Fishers/Chabad-of-Fishers-Noblesville"
   }
 ]
