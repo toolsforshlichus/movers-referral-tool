@@ -29265,6 +29265,21 @@
     "url": "https://www.chabad.org/jewish-centers/Fair-Lawn/CTeen-Of-Fair-Lawn"
   },
   {
+    "id": "7408434",
+    "name": "Southern Connecticut Hebrew Acadamy",
+    "shliach": "Rabbi Levi Kaplan",
+    "phone": "718-877-3528",
+    "website": "www.schacademy.org",
+    "address": "261 Derby Ave",
+    "city": "Orange",
+    "state": "CT",
+    "zip": "06477",
+    "lat": 41.2997541,
+    "lng": -73.0082421,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Orange/Southern-Connecticut-Hebrew-Acadamy"
+  },
+  {
     "id": "7417922",
     "name": "Chabad of Eden Prairie",
     "shliach": "Rabbi Schneur Matusof",
@@ -29370,6 +29385,21 @@
     "url": "https://www.chabad.org/jewish-centers/Houston/Circle-Houston-Inc"
   },
   {
+    "id": "7446149",
+    "name": "Chabad at University of New Haven",
+    "shliach": "Rabbi Itai Kreisler",
+    "phone": "520-472-8840",
+    "website": "www.jewishunewhaven.org",
+    "address": "35 Brower St",
+    "city": "West Haven",
+    "state": "CT",
+    "zip": "06516",
+    "lat": 41.2946493,
+    "lng": -72.9604916,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/West-Haven/Chabad-at-University-of-New-Haven"
+  },
+  {
     "id": "7446707",
     "name": "Chabad of West Philadelphia",
     "shliach": "Rabbi Menachem Dubrowski",
@@ -29415,6 +29445,21 @@
     "url": "https://www.chabad.org/jewish-centers/Des-Moines/Cteen-Iowa"
   },
   {
+    "id": "7474294",
+    "name": "Chabad of S. Rafael",
+    "shliach": "Rabbi Avremi Rapoport",
+    "phone": "",
+    "website": "jewishsrafael.com",
+    "address": "",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "",
+    "lat": 37.9735346,
+    "lng": -122.5310874,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/San-Rafael/Chabad-of-S-Rafael"
+  },
+  {
     "id": "7475377",
     "name": "Irving Aaron Kitchen of Kindness",
     "shliach": "Mrs. Bassy Mendelsohn",
@@ -29458,5 +29503,50 @@
     "lng": -75.6039129,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/West-Chester/Chabad-at-West-Chester-University-PA"
+  },
+  {
+    "id": "7525680",
+    "name": "Chabad of Old Agoura",
+    "shliach": "Rabbi Moshe Bryski",
+    "phone": "818-584-9301",
+    "website": "www.chabadconejo.com",
+    "address": "5356 Chesebro Road",
+    "city": "Agoura Hills",
+    "state": "CA",
+    "zip": "91301",
+    "lat": 34.1467264,
+    "lng": -118.7377982,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Agoura-Hills/Chabad-of-Old-Agoura"
+  },
+  {
+    "id": "7530546",
+    "name": "Neither Chabad Dovrei Ivrit",
+    "shliach": "Rabbi Moshe Feller",
+    "phone": "612-408-1327",
+    "website": "",
+    "address": "1809 Yorkshire Avenue ",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55116",
+    "lat": 44.9117557,
+    "lng": -93.1764534,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/St-Paul/Neither-Chabad-Dovrei-Ivrit"
+  },
+  {
+    "id": "7543561",
+    "name": "Chabad of Lafayette Easton",
+    "shliach": "Rabbi Sadya Liberow",
+    "phone": "929-368-1943",
+    "website": "",
+    "address": "624 Chestnut Terrace",
+    "city": "Easton",
+    "state": "PA",
+    "zip": "18042",
+    "lat": 40.7052256,
+    "lng": -75.2104242,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Easton/Chabad-of-Lafayette-Easton"
   }
 ]
