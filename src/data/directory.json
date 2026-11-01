@@ -29505,6 +29505,21 @@
     "url": "https://www.chabad.org/jewish-centers/West-Chester/Chabad-at-West-Chester-University-PA"
   },
   {
+    "id": "7515927",
+    "name": "Chabad of Greater Hazleton",
+    "shliach": "Rabbi Hillel Greenberg",
+    "phone": "929-253-0057",
+    "website": "www.chabad-of-greater-hazleton.b12sites.com/",
+    "address": "1901 W 22nd St",
+    "city": "Hazle Township",
+    "state": "PA",
+    "zip": "18202",
+    "lat": 40.970473,
+    "lng": -75.998701,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Hazle-Township/Chabad-of-Greater-Hazleton"
+  },
+  {
     "id": "7525680",
     "name": "Chabad of Old Agoura",
     "shliach": "Rabbi Moshe Bryski",
@@ -29535,6 +29550,21 @@
     "url": "https://www.chabad.org/jewish-centers/St-Paul/Neither-Chabad-Dovrei-Ivrit"
   },
   {
+    "id": "7530925",
+    "name": "Chabad at University of New Haven",
+    "shliach": "",
+    "phone": "520-472-8840",
+    "website": "",
+    "address": "35 Brower St",
+    "city": "West Haven",
+    "state": "CT",
+    "zip": "06516",
+    "lat": 41.2946493,
+    "lng": -72.9604916,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/West-Haven/Chabad-at-University-of-New-Haven"
+  },
+  {
     "id": "7543561",
     "name": "Chabad of Lafayette Easton",
     "shliach": "Rabbi Sadya Liberow",
@@ -29548,5 +29578,35 @@
     "lng": -75.2104242,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Easton/Chabad-of-Lafayette-Easton"
+  },
+  {
+    "id": "7553816",
+    "name": "Camp Gan Menachem",
+    "shliach": "Rabbi Chaim Berkowitz",
+    "phone": "438-878-8798",
+    "website": "",
+    "address": "6405 Westbury Ave",
+    "city": "Montreal",
+    "state": "QC",
+    "zip": "H3W 2X5",
+    "lat": 45.492707,
+    "lng": -73.6431293,
+    "type": "Day Camp",
+    "url": "https://www.chabad.org/jewish-centers/Montreal/Day-Camp/Camp-Gan-Menachem"
+  },
+  {
+    "id": "7555580",
+    "name": "Chabad at Oxford College of Emory University",
+    "shliach": "Rabbi Mendel Lipskier",
+    "phone": "470-494-7810",
+    "website": "www.chabademoy.org",
+    "address": "10134 Carlton Trail NW",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30014",
+    "lat": 33.6176156,
+    "lng": -83.8762643,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Covington/Chabad-at-Oxford-College-of-Emory-University"
   }
 ]
