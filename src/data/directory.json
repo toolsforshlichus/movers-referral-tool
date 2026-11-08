@@ -9105,6 +9105,21 @@
     "url": "https://www.chabad.org/jewish-centers/Los-Angeles/Mikveh/Mikvah-Esther"
   },
   {
+    "id": "119741",
+    "name": "Congregation Bais Hamedrash Levi Yitzchok",
+    "shliach": "Rabbi Avrohom Korf",
+    "phone": "305-673-5664",
+    "website": "SoBeShul.com",
+    "address": "1140 Alton Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "zip": "33139",
+    "lat": 25.7824226,
+    "lng": -80.1414191,
+    "type": "Synagogue",
+    "url": "https://www.chabad.org/jewish-centers/Miami-Beach/Synagogue/Congregation-Bais-Hamedrash-Levi-Yitzchok"
+  },
+  {
     "id": "119753",
     "name": "Gan Torah",
     "shliach": "Rabbi Avrohom Litvin",
@@ -29488,6 +29503,21 @@
     "lng": -86.0223611,
     "type": "",
     "url": "https://www.chabad.org/jewish-centers/Fishers/Chabad-of-Fishers-Noblesville"
+  },
+  {
+    "id": "7503079",
+    "name": "Mount Prospect Chabad",
+    "shliach": "Rabbi Dovid Sasonkin",
+    "phone": "",
+    "website": "",
+    "address": "",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "zip": "60056",
+    "lat": 42.0646736,
+    "lng": -87.9383822,
+    "type": "",
+    "url": "https://www.chabad.org/jewish-centers/Mount-Prospect/Mount-Prospect-Chabad"
   },
   {
     "id": "7514755",
